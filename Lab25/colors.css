@@ -1,0 +1,16 @@
+.color-name{
+    color:red
+}
+
+.hex-color{
+    background-color: #ff5755;
+}
+
+.rgb-color{
+    color: rgb(0, 0, 255);
+}
+
+.rgba-color{
+    padding: 10px;
+    background-color: rgba(0, 255, 0, 0.5);
+}
